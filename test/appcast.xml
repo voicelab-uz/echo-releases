@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Echo — test updates</title>
+    <link>https://raw.githubusercontent.com/voicelab-uz/echo-releases/main/test/appcast.xml</link>
+    <description>Echo for macOS</description>
+    <item>
+      <title>Echo 2.0.0</title>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 17:49:07 +0000</pubDate>
+      <sparkle:releaseNotesLink sparkle:edSignature="/eFCc1rz3dBBWrVV9b2EioGTLmsofX6xCsIvlax3VFf7hzHQktPAwGC3M6t2NPxSPwMxSqCq5I4DMMIzNnW/DQ==" sparkle:length="719">https://github.com/voicelab-uz/echo-releases/releases/download/test-2.0.0-102/release-notes.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/test-2.0.0-102/Echo-2.0.0-102-universal-test.dmg" length="12322291" type="application/octet-stream" sparkle:edSignature="UC/CHC0WPrf3pF08Ty9XLG5/OdvQDBalV2hYIKcBLLsXGqptmNl/s5jpMSE1KY2ClfCPp8uR8TG4F6aZSaHzAw==" />
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: b37XkNLIhJjfFqSk6d0j0V9LEC/xQH6AQYzNqQ72CbF5jDdNA9Q87Dx7FgKLUNRO/2XbtNIRgaBnSCZruJAXBw==
+length: 1232
+-->
