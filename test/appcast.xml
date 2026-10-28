@@ -6,6 +6,16 @@
     <description>Echo for macOS</description>
     <item>
       <title>Echo 2.0.0</title>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 20:47:56 +0000</pubDate>
+      <sparkle:releaseNotesLink sparkle:edSignature="qg8QnrnzWZrP/dPoGLOgfSuujYRIE2Nxoc0zNgxAJqi4nO5TJWWINbdd8CLEk229p/EJ8M4QxYX0OvccyNcSCw==" sparkle:length="344">https://github.com/voicelab-uz/echo-releases/releases/download/test-2.0.0-104/release-notes.html</sparkle:releaseNotesLink>
+      <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+      <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/test-2.0.0-104/Echo-2.0.0-104-universal-test.dmg" length="12319821" type="application/octet-stream" sparkle:edSignature="dvc1y7MlNAltUVGOPmPTOBBfqocjsk5d4cn1OFATxx4LY6XKf2Hy3HfuaJsJfBbAU55pJ+Rs2h5tm4r90tZeBQ==" />
+    </item>
+    <item>
+      <title>Echo 2.0.0</title>
       <sparkle:version>103</sparkle:version>
       <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
@@ -25,6 +35,6 @@
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: QXfIyvlb9DqCuD6kuOOlgYY/zM5ivo6y4X0wHhxCE0XMlgbsm2jH9/+Q4VGGzowu+Vu3lmePEiOVee5UZvarDw==
-length: 2119
+edSignature: +yUqLXoVfGi6W5Odf8st++NFSDE1tADDUwn0s50RJy9YstM3zVIpuVW02iNjdgt0v09REZaQEtKsbd/aHqP8AQ==
+length: 3081
 -->
