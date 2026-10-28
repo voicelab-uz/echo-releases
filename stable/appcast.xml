@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Echo — stable updates</title>
+    <link>https://raw.githubusercontent.com/voicelab-uz/echo-releases/main/stable/appcast.xml</link>
+    <description>Echo for macOS</description>
+    <item>
+      <title>Echo 2.0.0</title>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 21:48:06 +0000</pubDate>
+      <sparkle:releaseNotesLink sparkle:edSignature="1SZmtXHls1leQRdfl/Gr5dxayAsTIvhQG90UcOPE0vXy4XotUbifgNnJAqu208B53o1zC5tfs5sGm3W5irOqDQ==" sparkle:length="624">https://github.com/voicelab-uz/echo-releases/releases/download/stable-2.0.0-108/release-notes.html</sparkle:releaseNotesLink>
+      <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+      <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/stable-2.0.0-108/Echo-2.0.0-108-universal.dmg" length="12412260" type="application/octet-stream" sparkle:edSignature="XMiis6o7AzJ9Je20ePyLo+41LdNFfkN6eriV9yr23oxPZ/uX4maj2QRuBlbrAlt9y3WKBLgsWqcVLMwkIUGDCw==" />
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 6C8Krkjn0o/5S6gjLl7etwvehUe/ERSoJnlBqgNUb6ZNBjvJIVh/xfUQMaAn+4PR0bTdMq3MI2yYHsnd1urJAg==
+length: 1310
+-->
