@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/voicelab-uz/echo-releases/main/stable/appcast.xml</link>
     <description>Echo for macOS</description>
     <item>
+      <title>Echo 1.2.0</title>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 23 Nov 2026 13:31:52 +0000</pubDate>
+      <sparkle:releaseNotesLink sparkle:edSignature="7tfw7iLQ/WKJoKWlk5TszjHvfiJWtm3EnJsBFkQv7IrJrqO6sGgfS1Qi6+oG6G+e8YXHXHXrubAEa23L10P5Cw==" sparkle:length="344">https://github.com/voicelab-uz/echo-releases/releases/download/stable-1.2.0-124/release-notes.html</sparkle:releaseNotesLink>
+      <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+      <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/stable-1.2.0-124/Echo-1.2.0-124-universal.dmg" length="12790649" type="application/octet-stream" sparkle:edSignature="pu2JiF2/KA8Ftr426sushxXlPmLjBWBvcR/Ak2slNtNg9OsXRdWhvJM5z6R9/u+AI0qmHDrcnbWM7znsEbjICg==" />
+    </item>
+    <item>
       <title>Echo 1.1.0</title>
       <sparkle:version>123</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
@@ -24,19 +34,9 @@
       <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
       <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/stable-1.0.0-115/Echo-1.0.0-115-universal.dmg" length="12487273" type="application/octet-stream" sparkle:edSignature="cjaAu12iGQ719b/eMaTne6PA4UVbfVeoKitCG7Mtbvy0R/lkxzQFWkFgFnB3zIs2bMU0KG7sioGdUcfTq3pVAw==" />
     </item>
-    <item>
-      <title>Echo 2.0.0</title>
-      <sparkle:version>108</sparkle:version>
-      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 28 Oct 2026 21:48:06 +0000</pubDate>
-      <sparkle:releaseNotesLink sparkle:edSignature="1SZmtXHls1leQRdfl/Gr5dxayAsTIvhQG90UcOPE0vXy4XotUbifgNnJAqu208B53o1zC5tfs5sGm3W5irOqDQ==" sparkle:length="624">https://github.com/voicelab-uz/echo-releases/releases/download/stable-2.0.0-108/release-notes.html</sparkle:releaseNotesLink>
-      <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
-      <enclosure url="https://github.com/voicelab-uz/echo-releases/releases/download/stable-2.0.0-108/Echo-2.0.0-108-universal.dmg" length="12412260" type="application/octet-stream" sparkle:edSignature="XMiis6o7AzJ9Je20ePyLo+41LdNFfkN6eriV9yr23oxPZ/uX4maj2QRuBlbrAlt9y3WKBLgsWqcVLMwkIUGDCw==" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 16zTaOsUss1ZwV1gLUF84iiWbayk164lBA2m7Rv3TapgCT2EKzf6yaAeLrJl24Tjd8z1eeX5FnypdX9/g3UlDg==
+edSignature: aBw/MuBu2SEX5EX2dLY8vJ0eV1h8DznH0H+t77JK8CjcZRs170Razrb/Xpjqa36lSv+O+m3aQVpBQDirLrSaBg==
 length: 3232
 -->
